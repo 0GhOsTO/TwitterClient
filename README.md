@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/0GhOsTO/TwitterClient/blob/master/CP-1.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -48,7 +48,7 @@ Had a hard time checking and understanding recycler view and the api's connectio
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022-03-11] [Andrew Cho]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
